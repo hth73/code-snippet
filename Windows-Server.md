@@ -16,9 +16,6 @@ ___
 * [MDT-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/MDT-Server.md)
 * [Nano-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Nano-Server.md)
 * NPS-Server
-* Project-Server
-* SCCM-Server
-* SharePoint-Server
 * SQL-Server
 * Terminal-Server
 * Windows Server
