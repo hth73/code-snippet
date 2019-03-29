@@ -7,8 +7,8 @@ ___
 * [Core-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Core-Server.md)
 * [Container(Docker)-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Container-Server.md)
 * [Datei-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Datei-Server.md)
-* DFS(R)-Server
-* Exchange-Server
+* [DFS(R)-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/DFS-Server.md)
+* [Exchange-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Exchange-Server.md)
 * Hyper-V-Server
 * IIS-Server
 * KMS-Server
