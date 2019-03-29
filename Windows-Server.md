@@ -1,4 +1,4 @@
-## Alles Rund um die Windows Server
+## Alles Rund um die Microsoft Server und seine Rollen
 
 [Home](https://github.com/helmutthurnhofer/code-snippet/blob/master/readme.md)
 ___
@@ -15,9 +15,9 @@ ___
 * [MBAM(Bitlocker)-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/MBAM-Server.md)
 * [MDT-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/MDT-Server.md)
 * [Nano-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Nano-Server.md)
-* NPS-Server
-* SQL-Server
-* Terminal-Server
-* Windows Server
-* WSUS-Server
-* Zertifikats-Server
+* [NPS-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/NPS-Server.md)
+* [SQL-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/SQL-Server.md)
+* [Terminal-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/RDS-Server.md)
+* [Windows Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Windows-Server.md)
+* [WSUS-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/WSUS-Server.md)
+* [Zertifikats-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/PKI-Server.md)
