@@ -13,8 +13,8 @@ ___
 * [IIS-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/IIS-Server.md)
 * [KMS-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/KMS-Server.md)
 * [MBAM(Bitlocker)-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/MBAM-Server.md)
-* MDT-Server
-* Nano-Server
+* [MDT-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/MDT-Server.md)
+* [Nano-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Nano-Server.md)
 * NPS-Server
 * Project-Server
 * SCCM-Server
