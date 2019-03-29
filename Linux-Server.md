@@ -1,4 +1,4 @@
 ## Alles Rund um die Linux Server
 
-[Home](https://github.com/HelmutThurnhofer/snippet/blob/master/README.md)
+[Home](https://github.com/helmutthurnhofer/code-snippet/blob/master/readme.md)
 ___
