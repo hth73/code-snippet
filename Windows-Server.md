@@ -11,8 +11,8 @@ ___
 * [Exchange-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Exchange-Server.md)
 * [Hyper-V-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Hyper-V-Server.md)
 * [IIS-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/IIS-Server.md)
-* KMS-Server
-* MBAM(Bitlocker)-Server
+* [KMS-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/KMS-Server.md)
+* [MBAM(Bitlocker)-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/MBAM-Server.md)
 * MDT-Server
 * Nano-Server
 * NPS-Server
