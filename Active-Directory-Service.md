@@ -1,6 +1,6 @@
 ## Alle Rund um das Active Directory
 
-[Windows-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Windows-Server.md) - [Home](https://github.com/helmutthurnhofer/code-snippet/blob/master/README.md)
+[Windows-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Windows-Server.md) - [Home](https://github.com/helmutthurnhofer/code-snippet/blob/master/readme.md)
 ___
 
 **Active Directory von einem Installations-Medium installieren**
