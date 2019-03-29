@@ -18,6 +18,6 @@ ___
 * [NPS-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/NPS-Server.md)
 * [SQL-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/SQL-Server.md)
 * [Terminal-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/RDS-Server.md)
-* [Windows Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Windows-Server.md)
+* [Windows Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Windows-Server2.md)
 * [WSUS-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/WSUS-Server.md)
 * [Zertifikats-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/PKI-Server.md)
