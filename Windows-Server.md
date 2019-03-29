@@ -9,8 +9,8 @@ ___
 * [Datei-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Datei-Server.md)
 * [DFS(R)-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/DFS-Server.md)
 * [Exchange-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Exchange-Server.md)
-* Hyper-V-Server
-* IIS-Server
+* [Hyper-V-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Hyper-V-Server.md)
+* [IIS-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/IIS-Server.md)
 * KMS-Server
 * MBAM(Bitlocker)-Server
 * MDT-Server
