@@ -1,4 +1,7 @@
-## Alle Rund um den Microsoft Exchange Server
+## Microsoft Exchange Server
 
-[Windows-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Windows-Server.md) - [Home](https://github.com/helmutthurnhofer/code-snippet/blob/master/readme.md)
-___
+---
+
+[Back to Windows-Servers](Default.md) - [Back to home](../README.md)
+
+---

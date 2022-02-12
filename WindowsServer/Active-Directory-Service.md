@@ -1,11 +1,13 @@
-## Alle Rund um das Active Directory
+## Microsoft Active Directory Services
 
-[Windows-Server](https://github.com/helmutthurnhofer/code-snippet/blob/master/Windows-Server.md) - [Home](https://github.com/helmutthurnhofer/code-snippet/blob/master/readme.md)
+---
+
+[Back to Windows-Servers](Default.md) - [Back to home](../README.md)
 ___
 
-**Active Directory von einem Installations-Medium installieren**
+>Install Active Directory from Install-medium
 
-*RODC Server:*
+*Read Only Domain Controller:*
 ```batch
 ntdsutil
 ntdsutil:activate instance ntds
@@ -15,7 +17,7 @@ ntdsutil:ifm
 IFM:quit
 ntdsutil:quit
 
-## Hier wird folgende Ordnerstruktur angelegt:
+## Folder structure:
 D:\RODC
 	|- Active Direcory
 		|-ntds.dit
@@ -25,7 +27,7 @@ D:\RODC
 			|-scripts
 ```
 
-*DC Server:*
+*Domain Controller:*
 ```batch
 ntdsutil
 ntdsutil:activate instance ntds
@@ -35,7 +37,7 @@ ntdsutil:ifm
 IFM:quit
 ntdsutil:quit
 
-## Hier wird folgende Ordnerstruktur angelegt:
+## Folder structure:
 D:\FullDC
 	|- Active Direcory
 		|-ntds.dit
@@ -47,9 +49,9 @@ D:\FullDC
 		|-SECURITY
                 |-SYSTEM
 ```
-___
+---
 
-**Active Directory Schema Version herausfinden**
+>find Active Directory schema version
 
 ```batch
 reg query HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\NTDS\Parameters
@@ -59,9 +61,9 @@ dsquery * CN=Schema,CN=Configuration,DC=htdom,DC=local -Scope Base -attr objectV
 ```powershell
 Get-ADObject "CN=Schema,CN=Configuration,DC=htdom,DC=local" -Properties objectVersion | Select objectVersion | Format-Table -Autosize
 ```
-___
+---
 
-**FMSO Rollen verschieben**
+>FMSO Rollen verschieben
 
 *FSMO Rollen anzeigen lassen*
 ```batch
@@ -101,3 +103,5 @@ fsmo maintenance: seize infrastructure master
 fsmo maintenance: quit
 ntdsutil: quit
 ```
+---
+

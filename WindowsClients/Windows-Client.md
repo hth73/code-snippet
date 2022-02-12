@@ -1,4 +1,7 @@
-## Alles Rund um die Windows Clients
+## Windows Clients
 
-[Home](https://github.com/helmutthurnhofer/code-snippet/blob/master/readme.md)
-___
+---
+
+[Back to home](../README.md)
+
+---
