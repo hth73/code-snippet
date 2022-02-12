@@ -189,7 +189,7 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
 ```
 
->useful ssh commands
+>Useful ssh commands
 ```bash
 ## SSH Key übertragen
 ##
@@ -214,7 +214,7 @@ vim scp://$USR@server.domain.de//home/$USR/.aws/config
 sudo dpkg --get-selections | grep <packagename> | awk '{ print $1}'| xargs sudo apt-get -y --purge autoremove
 ```
 
->create passwords
+>Create passwords
 ```bash
 pwgen -y -c 18 10
 # -y = Include at least one special symbol in the password
@@ -224,7 +224,7 @@ pwgen -y -c 18 10
 # Anzahl der Passwörter
 ```
 
->Uninstall packages completely
+>Check checksums
 ```bash
 ## check checksums
 ##
